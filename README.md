@@ -5,11 +5,15 @@ Name's Ivan, a self-driven C++ developer who creates projects from time to time 
 # Current tech stack:
 
 Languane: C++\C
+
+
 Used frameworks yet: Qt(practiced that at uni), SFML(used for my first 2 projects), STL
 
 # Education
 
 [2020 - 2024] - bachelors degree in industrial electronics at my local place
+
+
 [2024 - 2026] - went for master degree in the same field
 
 # First projects finished:
